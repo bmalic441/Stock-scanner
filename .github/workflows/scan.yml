@@ -1,0 +1,46 @@
+name: Market Scanner
+
+on:
+  schedule:
+    # Every 15 min, 13:00-21:00 UTC, Mon-Fri.
+    # Covers 9:30am-4pm ET; the script exits
+    # instantly if the market isn't actually open.
+    - cron: "*/15 13-21 * * 1-5"
+  workflow_dispatch: {}   # lets you trigger a run manually to test
+
+permissions:
+  contents: write   # needed to publish the dashboard + alert state
+
+concurrency:
+  group: scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          SMS_ADDRESS: ${{ secrets.SMS_ADDRESS }}
+        run: python scanner.py
+
+      - name: Publish dashboard + alert state
+        run: |
+          git config user.name "scanner-bot"
+          git config user.email "actions@github.com"
+          git add -A RESULTS.md docs/ state.json || true
+          git diff --cached --quiet || git commit -m "scan $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin ${{ github.ref_name }} || true
+          git push || true
