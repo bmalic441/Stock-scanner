@@ -100,7 +100,10 @@ def market_is_open() -> bool:
 
 def get_sp500() -> pd.DataFrame:
     url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
-    table = pd.read_html(url)[0]
+    import requests; from io import StringIO
+    html = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}, timeout=30).text
+    table = pd.read_html(StringIO(html))[0]
+
     df = table[["Symbol", "GICS Sector"]].copy()
     df.columns = ["ticker", "sector"]
     df["ticker"] = df["ticker"].str.replace(".", "-", regex=False)
