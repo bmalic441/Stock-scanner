@@ -5,7 +5,7 @@ on:
     # Every 15 min, 13:00-21:00 UTC, Mon-Fri.
     # Covers 9:30am-4pm ET; the script exits
     # instantly if the market isn't actually open.
-    - cron: "*/15 13-21 * * 1-5"
+    - cron: "3,18,33,48 13-21 * * 1-5"
   workflow_dispatch: {}   # lets you trigger a run manually to test
 
 permissions:
