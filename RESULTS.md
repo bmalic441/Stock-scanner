@@ -1,29 +1,29 @@
-# Buy Scan — Mon Jul 20 · 1:16 PM ET
+# Buy Scan — Tue Jul 21 · 9:43 AM ET
 
 | # | Ticker | Price | Day | Score | Contract idea | Why |
 |---|--------|-------|-----|-------|---------------|-----|
-| 1 | **FTNT** ! | $162.95 | +0.8% | 61 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-down reclaimed |
-| 2 | **GEN** ! | $26.84 | +0.4% | 61 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-down reclaimed |
-| 3 | **GLW** | $155.18 | +0.4% | 58 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 4 | **MRVL** S ! | $197.01 | +4.4% | 58 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 5 | **APH** ! | $151.83 | +0.4% | 57 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; RSI 44 pullback in uptrend |
-| 6 | **DELL** | $388.46 | -2.0% | 57 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; RSI 47 pullback in uptrend |
-| 7 | **AMD** S ! | $508.67 | +2.6% | 54 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; gap-up holding |
-| 8 | **APD** | $296.53 | +0.3% | 54 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-down reclaimed |
-| 9 | **LLY** | $1167.82 | -1.0% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 10 | **PGR** | $209.54 | +0.8% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-down reclaimed |
-| 11 | **NET** S ! | $277.38 | -0.1% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 12 | **NTAP** | $163.64 | -0.1% | 52 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; sector +1.0%, stock lagging (catch-up) |
-| 13 | **TDY** | $632.34 | -0.5% | 52 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; sector +1.0%, stock lagging (catch-up) |
-| 14 | **CMI** | $647.14 | -0.2% | 51 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 15 | **ETN** | $402.90 | +0.7% | 51 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 16 | **NEE** | $87.95 | -1.0% | 51 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; RSI 50 pullback in uptrend |
-| 17 | **TSM** S ! | $403.10 | +1.2% | 51 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 18 | **MU** S ! | $886.72 | +4.4% | 51 | Entry $878-896, exp 8/21, strike $850C, prem ~$126.92, BE $976.92 | SMAs stacked bullish (20>50>200); lower-wick absorption; RSI 45 pullback in uptrend |
-| 19 | **CNC** | $66.56 | +0.2% | 50 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 20 | **GEV** | $1075.38 | +1.7% | 50 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 1 | **AAPL** S ! | $324.73 | -0.6% | 61 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +2.0%, stock lagging (catch-up) |
+| 2 | **AMD** S ! | $529.32 | +5.1% | 59 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-up holding |
+| 3 | **MU** S ! | $937.16 | +8.3% | 55 | — | SMAs stacked bullish (20>50>200); gap-up holding; RVOL 3.0x |
+| 4 | **SNDK** | $1515.16 | +8.9% | 55 | — | SMAs stacked bullish (20>50>200); gap-up holding; RVOL 4.1x |
+| 5 | **WDC** | $530.09 | +8.8% | 55 | — | SMAs stacked bullish (20>50>200); gap-up holding; RVOL 2.4x |
+| 6 | **GEN** | $26.74 | +0.2% | 53 | — | SMAs stacked bullish (20>50>200); gap-down reclaimed; sector +2.0%, stock lagging (catch-up) |
+| 7 | **TSM** S ! | $418.33 | +4.0% | 51 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; RVOL 3.1x |
+| 8 | **ALGN** | $175.47 | +0.2% | 50 | — | SMAs stacked bullish (20>50>200); RVOL 2.9x; RSI 49 pullback in uptrend |
+| 9 | **AMAT** | $554.72 | +5.5% | 50 | — | SMAs stacked bullish (20>50>200); RVOL 1.4x; RSI 48 pullback in uptrend |
+| 10 | **TDY** | $628.50 | +0.3% | 50 | — | SMAs stacked bullish (20>50>200); RSI 49 pullback in uptrend; sector +2.0%, stock lagging (catch-up) |
+| 11 | **WAT** | $362.49 | +1.4% | 50 | — | SMAs stacked bullish (20>50>200); RVOL 2.6x; RSI 46 pullback in uptrend |
+| 12 | **ZBRA** | $256.67 | -3.0% | 50 | — | SMAs stacked bullish (20>50>200); RSI 50 pullback in uptrend; sector +2.0%, stock lagging (catch-up) |
+| 13 | **MRVL** S ! | $205.68 | +5.5% | 49 | — | SMAs stacked bullish (20>50>200); gap-up holding; RVOL 2.0x |
+| 14 | **STX** | $864.78 | +7.8% | 48 | — | SMAs stacked bullish (20>50>200); gap-up holding; RVOL 1.8x |
+| 15 | **TER** | $360.08 | +7.9% | 48 | — | SMAs stacked bullish (20>50>200); gap-up holding; RVOL 1.6x |
+| 16 | **ANET** | $172.76 | +2.0% | 45 | — | SMAs stacked bullish (20>50>200); gap-down reclaimed; sector momentum +2.0% |
+| 17 | **APD** | $298.46 | +0.6% | 45 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; gap-down reclaimed |
+| 18 | **CRWD** | $199.88 | +0.7% | 45 | — | SMAs stacked bullish (20>50>200); sector +2.0%, stock lagging (catch-up) |
+| 19 | **DDOG** | $261.92 | -0.5% | 45 | — | SMAs stacked bullish (20>50>200); sector +2.0%, stock lagging (catch-up) |
+| 20 | **DELL** | $403.08 | +5.6% | 45 | — | SMAs stacked bullish (20>50>200); RVOL 1.7x; sector momentum +2.0% |
 
 S = watchlist · ! = alerted today
 
-Buy alerts today: FTNT, KLAC, APH, AMD, GEN, AAPL, TSM, MRVL, SPY, VOO, NET, RBRK, MU
+Buy alerts today: AMD, MRVL, MU, AAPL, TSM
 Exit alerts today: —
