@@ -1,29 +1,29 @@
-# Buy Scan — Wed Aug 19 · 1:24 PM ET
+# Buy Scan — Wed Aug 19 · 1:51 PM ET
 
 | # | Ticker | Price | Day | Score | Contract idea | Why |
 |---|--------|-------|-----|-------|---------------|-----|
-| 1 | **LLY** ! | $1274.94 | +4.0% | 85 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 2 | **CHD** ! | $99.26 | +0.1% | 66 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; RSI 49 pullback in uptrend |
-| 3 | **KO** ! | $90.03 | +1.4% | 63 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 4 | **JNJ** ! | $272.50 | +0.5% | 62 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 5 | **A** ! | $153.14 | +3.2% | 61 | Entry $152-155, exp 9/18, strike $150C, prem ~$8.60, BE $158.60 | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-up holding |
-| 6 | **APD** ! | $303.67 | +0.1% | 61 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +1.9%, stock lagging (catch-up) |
-| 7 | **INCY** ! | $127.18 | +3.0% | 61 | Entry $126-128, exp 9/18, strike $120C, prem ~$9.35, BE $129.35 | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-up holding |
-| 8 | **BMY** ! | $67.16 | +1.7% | 60 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 9 | **ECL** ! | $283.70 | +1.3% | 60 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 10 | **CL** | $91.15 | -0.3% | 59 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; RSI 47 pullback in uptrend |
-| 11 | **EQIX** | $1054.35 | -2.8% | 58 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; RSI 50 pullback in uptrend |
-| 12 | **ROST** ! | $236.62 | +0.1% | 58 | — | SMAs stacked bullish (20>50>200); gap-down reclaimed; RSI 44 pullback in uptrend |
-| 13 | **IQV** | $249.04 | +3.8% | 56 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +4.5%, stock lagging (catch-up) |
-| 14 | **ADM** | $81.68 | -0.9% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +1.7%, stock lagging (catch-up) |
-| 15 | **AXON** | $632.40 | +2.0% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 16 | **BALL** ! | $62.55 | +1.4% | 53 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; gap-up holding |
-| 17 | **BBY** | $89.32 | +2.3% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector momentum +1.6% |
-| 18 | **DLTR** | $132.43 | +1.5% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +1.7%, stock lagging (catch-up) |
-| 19 | **EXR** | $148.10 | +0.8% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +0.8%, stock lagging (catch-up) |
-| 20 | **GM** ! | $84.93 | +1.5% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +1.6%, stock lagging (catch-up) |
+| 1 | **BMY** ! | $67.14 | +1.7% | 68 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 2 | **CHD** ! | $99.31 | +0.2% | 66 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; RSI 49 pullback in uptrend |
+| 3 | **DLR** ! | $189.42 | -3.0% | 66 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; RSI 48 pullback in uptrend |
+| 4 | **LLY** ! | $1271.02 | +3.7% | 65 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; gap-up holding |
+| 5 | **TGT** ! | $161.43 | +5.9% | 65 | Entry $160-163, exp 9/18, strike $160C, prem ~$6.62, BE $166.62 | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-down reclaimed |
+| 6 | **ECL** ! | $284.19 | +1.5% | 62 | — | SMAs stacked bullish (20>50>200); upper-wick rejection; closed strong yesterday |
+| 7 | **DLTR** ! | $132.30 | +1.4% | 61 | Entry $131-134, exp 9/18, strike $125C, prem ~$11.88, BE $136.88 | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +1.9%, stock lagging (catch-up) |
+| 8 | **MDLZ** ! | $63.80 | +1.8% | 61 | Entry $63-64, exp 9/18, strike $62C, prem ~$2.42, BE $64.92 | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +1.9%, stock lagging (catch-up) |
+| 9 | **ABBV** ! | $263.48 | +1.8% | 60 | Entry $261-266, exp 9/18, strike $260C, prem ~$9.77, BE $269.77 | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 10 | **BALL** ! | $62.60 | +1.5% | 59 | — | SMAs stacked bullish (20>50>200); upper-wick rejection; closed strong yesterday |
+| 11 | **PFE** | $28.15 | +3.3% | 59 | — | above 200 SMA; lower-wick absorption; gap-up holding |
+| 12 | **MMM** | $181.91 | +0.5% | 58 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 13 | **NUE** | $250.37 | -5.2% | 58 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; RSI 43 pullback in uptrend |
+| 14 | **ROST** ! | $236.76 | +0.2% | 58 | — | SMAs stacked bullish (20>50>200); gap-down reclaimed; RSI 44 pullback in uptrend |
+| 15 | **BKNG** | $214.56 | +3.0% | 56 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-down reclaimed |
+| 16 | **DXCM** | $89.75 | +0.2% | 56 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +4.6%, stock lagging (catch-up) |
+| 17 | **KO** ! | $90.12 | +1.5% | 55 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; gap-down reclaimed |
+| 18 | **ZBH** | $100.87 | +1.7% | 55 | — | SMAs stacked bullish (20>50>200); upper-wick rejection; gap-down reclaimed |
+| 19 | **A** ! | $154.47 | +4.1% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-up holding |
+| 20 | **ADM** | $81.64 | -1.0% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +1.9%, stock lagging (catch-up) |
 
 S = watchlist · ! = alerted today
 
-Buy alerts today: BMY, JNJ, LLY, ROST, KO, JPM, AAPL, AXP, AMZN, SCHW, BAC, HIG, VOO, USB, APO, KMB, ECL, FCX, MO, BALL, SBUX, AMGN, GOOGL, GM, MRK, MRVL, NWS, SPY, CHD, A, APD, INCY
+Buy alerts today: BMY, JNJ, LLY, ROST, KO, JPM, AAPL, AXP, AMZN, SCHW, BAC, HIG, VOO, USB, APO, KMB, ECL, FCX, MO, BALL, SBUX, AMGN, GOOGL, GM, MRK, MRVL, NWS, SPY, CHD, A, APD, INCY, DLR, TGT, DLTR, MDLZ, ABBV
 Exit alerts today: —
