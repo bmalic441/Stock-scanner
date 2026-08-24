@@ -1,29 +1,29 @@
-# Buy Scan — Mon Aug 24 · 2:37 PM ET
+# Buy Scan — Mon Aug 24 · 3:18 PM ET
 
 | # | Ticker | Price | Day | Score | Contract idea | Why |
 |---|--------|-------|-----|-------|---------------|-----|
-| 1 | **SYY** ! | $84.26 | +0.2% | 76 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 2 | **AON** ! | $357.88 | +0.8% | 73 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 3 | **COF** ! | $216.89 | -0.5% | 68 | Entry $215-219, exp 9/18, strike $210C, prem ~$11.00, BE $221.00 | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 4 | **MRSH** ! | $193.42 | +0.7% | 65 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +0.8%, stock lagging (catch-up) |
-| 5 | **BLK** ! | $1166.67 | +0.9% | 64 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 6 | **WSM** ! | $238.68 | +0.5% | 62 | Entry $236-241, exp 9/18, strike $230C, prem ~$16.35, BE $246.35 | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 7 | **AMP** ! | $560.13 | +0.8% | 61 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-down reclaimed |
-| 8 | **AES** ! | $14.75 | -0.1% | 60 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; RVOL 1.9x |
-| 9 | **AJG** ! | $269.34 | +2.1% | 60 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 10 | **CPAY** | $414.95 | -0.5% | 60 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 11 | **KO** ! | $91.74 | +0.7% | 60 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 12 | **MA** | $597.01 | +2.8% | 60 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 13 | **SCHW** | $113.39 | +1.0% | 60 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 14 | **V** | $380.64 | +2.6% | 60 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 15 | **CHD** | $101.71 | +3.0% | 57 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 16 | **KMB** ! | $111.00 | +1.5% | 57 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
-| 17 | **C** | $132.05 | +0.3% | 56 | — | above 200 SMA; lower-wick absorption; closed strong yesterday |
-| 18 | **COST** | $967.82 | +2.1% | 55 | — | above 200 SMA; lower-wick absorption; closed strong yesterday |
-| 19 | **DG** | $124.56 | +0.9% | 55 | — | above 200 SMA; lower-wick absorption; closed strong yesterday |
-| 20 | **EL** | $103.58 | +1.6% | 55 | — | above 200 SMA; lower-wick absorption; closed strong yesterday |
+| 1 | **CL** ! | $91.96 | +1.0% | 73 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 2 | **AON** ! | $358.47 | +0.9% | 65 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 3 | **SJM** ! | $125.55 | +1.0% | 65 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 4 | **AMP** ! | $560.86 | +0.9% | 61 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; gap-down reclaimed |
+| 5 | **AXP** S ! | $338.17 | +0.6% | 61 | — | above 200 SMA; lower-wick absorption; closed strong yesterday |
+| 6 | **AES** ! | $14.76 | -0.1% | 60 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; RVOL 1.7x |
+| 7 | **GM** ! | $87.00 | -1.1% | 60 | Entry $86-88, exp 9/18, strike $85C, prem ~$4.03, BE $89.03 | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 8 | **GRMN** ! | $291.37 | -1.2% | 60 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; RVOL 1.5x |
+| 9 | **SYY** ! | $84.18 | +0.1% | 60 | — | SMAs stacked bullish (20>50>200); closed strong yesterday; gap-down reclaimed |
+| 10 | **CHD** | $101.96 | +3.2% | 59 | — | SMAs stacked bullish (20>50>200); upper-wick rejection; closed strong yesterday |
+| 11 | **FITB** | $55.04 | +0.4% | 58 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 12 | **CASY** ! | $851.73 | +1.9% | 57 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 13 | **DRI** ! | $225.42 | +1.7% | 57 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 14 | **KMB** ! | $111.10 | +1.6% | 57 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 15 | **MET** | $95.99 | +1.7% | 57 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector momentum +1.0% |
+| 16 | **NDAQ** | $98.67 | +0.5% | 56 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector +1.0%, stock lagging (catch-up) |
+| 17 | **MA** | $598.00 | +3.0% | 54 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 18 | **DE** | $647.12 | -0.1% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; closed strong yesterday |
+| 19 | **ICE** | $162.26 | +0.6% | 53 | — | above 200 SMA; lower-wick absorption; closed strong yesterday |
+| 20 | **JPM** S ! | $356.15 | +1.3% | 53 | — | SMAs stacked bullish (20>50>200); lower-wick absorption; sector momentum +1.0% |
 
 S = watchlist · ! = alerted today
 
-Buy alerts today: XYZ, KMB, CASY, STLD, KO, AXP, HOOD, NET, NVDA, VTI, VOO, JPM, TGT, AMP, DRI, SBUX, ABNB, RBRK, TSLA, SJM, CL, SYY, AJG, BF-B, AES, AON, COF, MRSH, BLK, WSM
+Buy alerts today: XYZ, KMB, CASY, STLD, KO, AXP, HOOD, NET, NVDA, VTI, VOO, JPM, TGT, AMP, DRI, SBUX, ABNB, RBRK, TSLA, SJM, CL, SYY, AJG, BF-B, AES, AON, COF, MRSH, BLK, WSM, GM, GRMN
 Exit alerts today: —
